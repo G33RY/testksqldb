@@ -4,10 +4,10 @@ Change the table name to a table of your choice in the `TestEndpoint` file on li
 Go to http://localhost:8080/test -- *Or the host of your wildfly server and `/test`*
 
 # My Tests
-Java 11 & Wildfly 20
-Java 11 & Wildfly 26
-Java 8 & Wildfly 20
-Java 8 & Wildfly 26
+- Java 11 & Wildfly 20
+- Java 11 & Wildfly 26
+- Java 8 & Wildfly 20
+- Java 8 & Wildfly 26
 
 Ran `maven clean` before every rebuild.
 
